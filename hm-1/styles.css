@@ -1,0 +1,21 @@
+body {
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	color: aliceblue;
+	background-color: black;
+}
+
+h1 {
+	text-align: center;
+	padding: 500;
+}
+
+img {
+	width: 500px;
+	padding: 30px;
+	border: 3px solid rgb(7, 219, 131);
+}
+
+p {
+	padding: 2px;
+	margin: 10px;
+}
